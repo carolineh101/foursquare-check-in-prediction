@@ -2,3 +2,4 @@
 .ipynb_checkpoints*
 dataset*
 gender-checkins-complete.csv
+matrix_factorization_MRR.csv
