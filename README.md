@@ -1,2 +1,2 @@
-# foursquare-gender-prediction
-Predict gender based on friendships and checkins on Foursquare.
+# Foursquare Check-in Prediction
+Predict new check-ins on Foursquare.
